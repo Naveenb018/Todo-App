@@ -1,11 +1,11 @@
 let todoList = [
     {
-      item: 'Buy Milk',
-      dueDate: '4/10/2023'
+      item: 'Hi Naveen',
+      dueDate: '11/11/2024'
     },
     {
-      item: 'Go to College',
-      dueDate: '4/10/2023'
+      item: 'How Are You',
+      dueDate: '11/11/2024'
     }
   ];
   
